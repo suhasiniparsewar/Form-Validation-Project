@@ -1,6 +1,9 @@
+/* General Page Styles */
 body {
   background-color: #f8f9fa;
 }
+
+/* Form Container */
 .container {
   max-width: 500px;
   background: #fff;
